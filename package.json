@@ -8,8 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-  "fix-permissions": "chmod +x node_modules/.bin/vite && chmod -R 755 node_modules"
-
+    "fix-permissions": "chmod +x node_modules/.bin/vite && chmod -R 755 node_modules"
   },
   "dependencies": {
     "react": "^18.3.1",
